@@ -1,0 +1,15 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Creating my own weather app using openweathermap api",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Soumik Mitra",
+  "license": "ISC",
+  "dependencies": {
+    "openweather-api-node": "^3.1.2"
+  }
+}
